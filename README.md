@@ -4,9 +4,9 @@ Risograph-poster landing for an AI engineer that works the night shift.
 
 ![Nightshift landing page preview](docs/preview.png)
 
-**Live demo:** https://nightshift-astro-template.vercel.app
+**[Live demo](https://nightshift-astro-template.vercel.app)**
 
-**See it on onepaste (with the AI prompt that built it):** https://onepaste.dev/templates/nightshift/?utm_source=github&utm_medium=readme&utm_campaign=astro-theme-nightshift
+**[See it on onepaste, with the AI prompt that built it](https://onepaste.dev/templates/nightshift/?utm_source=github&utm_medium=readme&utm_campaign=astro-theme-nightshift)**
 
 More screens: [docs/screens/01.png](docs/screens/01.png), [docs/screens/02.png](docs/screens/02.png), [docs/screens/03.png](docs/screens/03.png)
 
@@ -89,11 +89,11 @@ The email form in the final call to action only validates the address and shows 
 
 ## Get the AI prompt behind this template
 
-This template was built from a single copy-paste AI prompt on onepaste. More animated landing pages with prompts are at https://onepaste.dev/?utm_source=github&utm_medium=readme&utm_campaign=astro-theme-nightshift
+This template was built from a single copy-paste AI prompt on onepaste. More animated landing pages with prompts are on [onepaste.dev](https://onepaste.dev/?utm_source=github&utm_medium=readme&utm_campaign=astro-theme-nightshift).
 
 ## Need a custom website?
 
-WebScale builds custom websites and landing pages: https://webscale.pl/en/?utm_source=github&utm_medium=readme&utm_campaign=astro-theme-nightshift
+WebScale builds custom websites and landing pages: [webscale.pl](https://webscale.pl/en/?utm_source=github&utm_medium=readme&utm_campaign=astro-theme-nightshift).
 
 ## License
 
