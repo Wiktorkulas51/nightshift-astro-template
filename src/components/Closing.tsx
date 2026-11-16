@@ -291,7 +291,7 @@ export function FinalCta() {
 const FOOTER_LINKS = [
   { title: "Product", links: ["A night", "The report", "House rules", "Pricing"] },
   { title: "Company", links: ["About", "Security", "Careers", "Changelog"] },
-  { title: "Say hi", links: ["hello@nightshift.dev", "GitHub", "LinkedIn"] },
+  { title: "Say hi", links: ["hello@example.com", "GitHub", "LinkedIn"] },
 ];
 
 export function Footer() {
