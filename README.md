@@ -4,7 +4,9 @@ Risograph-poster landing for an AI engineer that works the night shift.
 
 ![Nightshift landing page preview](docs/preview.png)
 
-Live demo: https://onepaste.dev/templates/nightshift/?utm_source=github&utm_medium=readme&utm_campaign=astro-theme-nightshift
+**Live demo:** https://nightshift-astro-template.vercel.app
+
+**See it on onepaste (with the AI prompt that built it):** https://onepaste.dev/templates/nightshift/?utm_source=github&utm_medium=readme&utm_campaign=astro-theme-nightshift
 
 More screens: [docs/screens/01.png](docs/screens/01.png), [docs/screens/02.png](docs/screens/02.png), [docs/screens/03.png](docs/screens/03.png)
 
